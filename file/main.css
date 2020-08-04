@@ -52,7 +52,7 @@ header ul a .active{
 .imgcont{
     height: 400px;
     width: 100%;
-    background-image: url(../pic/Lside.jpg);
+    background-image: url(../pictures/Lside.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ article .imag{
     float: right;
     margin-top: 40px;
     margin-right: 30px;
-    background-image: url(../pic/char.jpg);
+    background-image: url(../pictures/char.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -188,7 +188,7 @@ article .imag{
 .contact{
     height: 300px;
     width: 100%;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../pic/light.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../pictures/light.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
